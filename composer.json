@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sabre/vobject": "3.4.2",
+        "sabre/http": "~3.0.0"
+    }
+}
