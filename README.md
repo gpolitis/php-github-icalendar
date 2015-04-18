@@ -11,7 +11,14 @@ This project is heavily inspired by Daniel Pocock's excellent Python based
 version is written in PHP, mainly because I have nginx/php already configured on
 my box.
 
-The official URL for this project is https://github.com/gpolitis/php-github-icalendar
+The official URL for this project is https://github.com/gpolitis/php-github-icalendar.
+
+Hassle-free start
+-----------------
+
+A publicly accessible instance of this script is available here: 
+
+    https://ghcal-netguru.rhcloud.com/?access_token=YOUR_TOKEN&filter=assigned
 
 Usage
 -----
