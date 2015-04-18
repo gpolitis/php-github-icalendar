@@ -6,7 +6,7 @@ This is a simple script that uses the public
 and then convert them to an iCalendar feed of VTODO items using the 
 [sabre/vobject](https://github.com/fruux/sabre-vobject) library.
 
-This project is heavily inspired by Daniel Pocock's Python based 
+This project is heavily inspired by Daniel Pocock's excellent Python based 
 [github-icalendar](https://github.com/dpocock/github-icalendar), only this 
 version is written in PHP, mainly because I have nginx/php already configured on
 my box.
